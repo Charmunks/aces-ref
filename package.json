@@ -1,0 +1,9 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@slack/bolt": "^4.5.0",
+    "airtable": "^0.12.2",
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0"
+  }
+}
